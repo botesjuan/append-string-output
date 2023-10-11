@@ -1,5 +1,6 @@
-# append-string-output
-Append String from input file and produce output file
+# Append string output  
+
+>Append String from input file and produce output file
 
 >Sample import file `usernamess-2023.txt`
 
